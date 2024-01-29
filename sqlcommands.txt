@@ -1,2 +1,3 @@
 constraints are rules or conditions that are applied to columns and tables to enforce data integrity and consistency of the database. 
 examples are unique, default, auto_increment, primary key etc.,
+In microsoft server mangament studio, we use individual(1,1) as auto increment rather than using auto_increment keyword.
