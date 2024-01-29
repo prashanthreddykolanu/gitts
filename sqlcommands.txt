@@ -1,0 +1,2 @@
+constraints are rules or conditions that are applied to columns and tables to enforce data integrity and consistency of the database. 
+examples are unique, default, auto_increment, primary key etc.,
